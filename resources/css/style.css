@@ -1,0 +1,17 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 18px;
+}
+
+#header {
+  color: white;
+}
