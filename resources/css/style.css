@@ -9,10 +9,45 @@ h1 {
 }
 
 a {
+  color: white;
   font-size: 18px;
 }
 
 #header {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./images/the-flatiron-building.png");
   color: white;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#background {
+  background-color: white;
+}
+
+#white {
+  background-image: url("./images/the-flatiron-building.png");
+  color: white;
+}
+
+#footer p, #footer nav {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align:left;
+}
+
+#footer a {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
 }
